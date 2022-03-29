@@ -1,10 +1,6 @@
 {
   "ovpn_file":[
     {"id":0,"file":"
-<auth-user-pass>
-w
-w
-</auth-user-pass>
 setenv FORWARD_COMPATIBLE 1
 client
 proto tcp
