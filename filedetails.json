@@ -1,6 +1,10 @@
 {
   "ovpn_file":[
     {"id":0,"file":"client
+<auth-user-pass>
+test
+test
+</auth-user-pass>
 http-proxy 207.154.225.199 8080
 dev tun
 proto tcp
