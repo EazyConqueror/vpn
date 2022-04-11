@@ -1,6 +1,7 @@
 {
   "ovpn_file":[
     {"id":0,"file":"client
+route myexternalip.com 255.255.255.255 net_gateway
 route naping.igamecj.com 255.255.255.255 net_gateway
 route saping.igamecj.com 255.255.255.255 net_gateway
 route krping.igamecj.com 255.255.255.255 net_gateway
